@@ -1,12 +1,24 @@
-.P1{
-	background-color: yellow
+h1 {
+	background: brown;
 }
+
+img{
+	Width: 50%;
+	border-radius: 50%;
+}
+
+
+body{
+	background: url("images/FB_IMG_146631063798.jpg");
+}
+
 .info{
-	background-color: blue
+	background-color: pink;
 }
 .documento{
-	background-color: red
+	background-color: brown;
 }
 .informacion{
-	background-color: orange
+	background-color: pink
+
 }
